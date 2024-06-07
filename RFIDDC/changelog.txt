@@ -1,0 +1,13 @@
+=========================================================================================
+
+10/07/2023 - RFIDDC ver.1.10
+
+- Changed theme to LightGrey5.
+- Created stats() function. It does nothing at the moment and only serves as template for future modifications to the code.
+- Created readme() function, which allows the user to read the changelog, the README and the credits directly from the client.
+- Removed old "Register/Hour" filter because it was obsolete.
+- The "Select all" button for the new "Register/Hour" filter now works properly.
+- Created a proper README.
+
+
+=========================================================================================
